@@ -1,2 +1,2 @@
-# Simple-Python-Chat-Apllication
-A simple web based python chat application using Python, Flask, Flask-SocketIO, HTML, CSS, JS.
+# Python-Live-Chat-App
+Uses Flask Sockets to create a live chat room application.
